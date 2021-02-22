@@ -70,7 +70,7 @@ public class sortTest {
     }
 
     @Test
-    public void sameNumbersTest()                   //массив с одинаковыми числами - тест провален!
+    public void sameNumbersTest()                   //массив с одинаковыми числами
     {
         int array[] = {2, 2, 2, 2, 2, 2};           //входные данные
         int arraySorted[] = {2, 2, 2, 2, 2, 2};     //ожидаемый результат работы сортировки
